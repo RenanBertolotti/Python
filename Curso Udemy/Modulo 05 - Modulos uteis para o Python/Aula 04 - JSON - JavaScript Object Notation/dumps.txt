@@ -1,0 +1,25 @@
+DUMPS/Dump - De Python para JSON
+###################################
+Python      JSON
+dict        object
+list        array
+str         string
+int         number (int)
+float       number (real)
+True        true
+False       false
+None        null
+
+
+LOADS/load - De JSON para Python
+####################################
+JSON              Python
+object            dict
+array             list
+string            str
+number (int)      int
+number (real)     float
+true              True
+false             False
+null              None
+
